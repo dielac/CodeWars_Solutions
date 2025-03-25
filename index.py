@@ -1,4 +1,4 @@
-# this code below is number 1, Odd or Even.
+# Solution: number 1, Odd or Even.
 
 def even_or_odd(number):      
 
@@ -22,7 +22,7 @@ def even_or_odd(number):
 
 
 
-#this code below is number 2, Convert a number to a string
+# Solution: number 2, Convert a number to a string
 
 def number_to_string(num):         # this code turns a number into a string ? 
 
@@ -43,7 +43,7 @@ def number_to_string(num):         # this code turns a number into a string ?
     return result     
 
 
-#this code below is number 3, Remove String Spaces
+# Solution: number 3, Remove String Spaces
 
 def no_space(string):         # i think this code removes spaces
     
